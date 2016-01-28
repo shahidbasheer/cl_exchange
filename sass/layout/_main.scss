@@ -783,4 +783,18 @@ padding: 0 36px;
       -webkit-box-shadow:none;
               box-shadow:none;
     }
+    h4.modal-title {
+    	 color: #000; 
+    	
+    }
+
+    .loan-application {
+	    width: 750px;
+	    height: 1250px;
+	    right: -750px;
+	    top: 0;
+	    background: #fff;
+	    z-index: 9;
+	    border-left: 0; 
+	}
 }

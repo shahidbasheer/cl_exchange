@@ -1211,6 +1211,18 @@ a.logo {
   outline: 0;
   box-shadow: none;
 }
+.exchange-table-modal h4.modal-title {
+  color: #000;
+}
+.exchange-table-modal .loan-application {
+  width: 750px;
+  height: 1250px;
+  right: -750px;
+  top: 0;
+  background: #fff;
+  z-index: 9;
+  border-left: 0;
+}
 
 /*
  * ----------------------------------------------------------------------------------------
