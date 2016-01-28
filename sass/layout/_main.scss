@@ -568,7 +568,7 @@ padding: 0 36px;
 }//exchange-table
 
  .loan-application {
- 	// position: absolute;
+ 	 //position: absolute;
     width: 750px;
     height: 1250px;
    	right: -750px;
@@ -578,7 +578,7 @@ padding: 0 36px;
     border-left: 1px solid #ddd;
     transition: 1s;
     padding: 0 40px; 
-    // display: none;
+    //display: none;
 
 
  }
@@ -798,4 +798,30 @@ padding: 0 36px;
 	    border-left: 0; 
 	     padding: 0 12px; 
 	}
+}
+
+
+#myModal-2 {
+
+	.bid-modal-window {
+
+		.modal-content {
+      
+      border-radius: 0px;
+      outline: 0;
+      -webkit-box-shadow:none;
+              box-shadow:none;
+    }
+		
+		  h4.modal-title {
+    	 color: #000; 
+    	
+    	}
+
+	}
+
+	.table thead th {color: #000; }
+	.table tbody td {color: #000; }
+
+
 }
