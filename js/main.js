@@ -6,6 +6,7 @@ jQuery(document).ready(function($) {
 		$(".due-del-step-2 ul.tabs").width($("ul.frames a").outerWidth()-1);
            
         });
+	
 	//right side bar 
 
 	 /*$('.close').on('click', function(event) {

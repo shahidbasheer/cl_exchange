@@ -1206,6 +1206,12 @@ a.logo {
   margin-right: 4px;
 }
 
+.exchange-table-modal .modal-content {
+  border-radius: 0px;
+  outline: 0;
+  box-shadow: none;
+}
+
 /*
  * ----------------------------------------------------------------------------------------
  * Sidebar styles.
